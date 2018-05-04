@@ -131,5 +131,4 @@ loaded via a namespace (and not attached):
 ```
 
 - Please keep in mind that the code takes a lot of time and memory to run. I have a laptop with 8th generation CPU and 12 gigs of RAM. This spec is only sufficient for about 10 accounts at a time. The trick is to run 5 accounts, clean the workplace objects, restart r-session and do the next 5. 
-# SEAsianTwitter
-Investigation of the surge of suspected Twitter followers.
+
