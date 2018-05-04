@@ -91,6 +91,10 @@ Journalist [May Wong](https://twitter.com/MayWongCNA) has over 4000 followers th
 
 ![phase3](https://raw.githubusercontent.com/haseebmahmud/SEAsianTwitter/master/Phases_Data_Plots/phase3.png)
 
+If we add all the newly created follower number from phase 1 to phase 4, we will have the following scenario,
+
+![total](https://raw.githubusercontent.com/haseebmahmud/SEAsianTwitter/master/Phases_Data_Plots/total.png)
+
 It is not yet clear if those newly created accounts are bots. To check if those are bots, we need to make a machine learning algorithm with SE Asian train datasets. I will do that later if I have some time. 
 
 
@@ -131,4 +135,3 @@ loaded via a namespace (and not attached):
 ```
 
 - Please keep in mind that the code takes a lot of time and memory to run. I have a laptop with 8th generation CPU and 12 gigs of RAM. This spec is only sufficient for about 10 accounts at a time. The trick is to run 5 accounts, clean the workplace objects, restart r-session and do the next 5. 
-
